@@ -4,8 +4,8 @@ This project is created to build a simple clone of LinkedIn using HTML, CSS, and
 
 ## Preview-Top
 
-![preview-top](assets\linkedinclonetop.png)
+![preview-top](assets/linkedinclonetop.png)
 
 ## Preview-Bottom
 
-![preview-top](assets\linkedinclonebottom.png)
+![preview-top](assets/linkedinclonebottom.png)
